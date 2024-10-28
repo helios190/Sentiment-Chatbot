@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+azure-core
+azure-ai-textanalytics
+azure-search-documents
+openai
+python-dotenv
